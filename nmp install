@@ -1,0 +1,4 @@
+</p>
+			<pre>npm install -g oncebuilder</pre>
+					<p>In your browser, open <a href="http://localhost/once/"><code>http://localhost/once/</code></a>.
+					When you run oncebuilder first time, you should see DB installer & create account form.</p>
